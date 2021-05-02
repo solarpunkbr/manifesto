@@ -1,1 +1,3 @@
-# core
+# O manifesto Solarpunk
+
+TODO
